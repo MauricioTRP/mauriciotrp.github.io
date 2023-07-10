@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Articles"
-    url: "#"
-  - title: "Sitemap"
-    url: /sitemap/
+    url: /articles
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
