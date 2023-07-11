@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mauricio Fuentes"
 description              : "Un simple blog donde se registra el aprendizaje y se mantiene un portafolio."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mauriciotrp.portolio.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MauricioTRP/mauriciotrp.portfolio.io"
 teaser                   : "/assets/images/hero-bg.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
