@@ -1,18 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este es un sitio hecho con [Jekyll][jekyll-homepage] y el tema [Minimal Mistakes][minimal-mistakes-theme]
 
-You can find the source code for Minima at GitHub:
+Puedes encontrar el código fuente de ambos proyectos en github GitHub:
 [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Minimal Mistakes][minimal-mistakes-gh]
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[jekyll-homepage]: https://jekyllrb.com/
+[jekyll-organization]: https://github.com/jekyll/jekyll
+[minimal-mistakes-gh]: https://github.com/mmistakes/minimal-mistakes
+[minimal-mistakes-theme]: https://mmistakes.github.io/minimal-mistakes

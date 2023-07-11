@@ -2,7 +2,7 @@
 layout: single
 title:  "Primer post!"
 date:   2023-07-09 02:18:01 -0400
-categories: articles
+categories: jekyll rails
 ---
 Este primer post es para probar Jekyll en produccion con GH pages. 
 De ahora en adelante se buscará mantener documentación asociada a [Rails][rails-docs] y a [Jekyll][jekyll-docs]
