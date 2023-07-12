@@ -1,0 +1,9 @@
+Mauricio Fuentes:
+  name: "Mauricio Fuentes"
+  bio: "Developer from south pacific"
+  avatar:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mauriciofb@gmail.com"
+      
