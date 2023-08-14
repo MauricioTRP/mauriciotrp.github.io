@@ -35,5 +35,11 @@ Lo importante es cambiar el `foreignkey: true ` a `foreign_key: { to_table: :tab
 Luego para terminar debes especificar la relación de forma correcta en el modelo: 
 
 {% highlight ruby %}
-belongs_to :type, class_name: 'AccountType'
+class Account < ApplicationRecord
+  belongs_to :type, class_name: 'AccountType'
+end
+
+class AccountType < ApplicationRecord
+  has_many :accounts, foreign_key: 'type_id'
+end
 {% endhighlight %}
